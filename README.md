@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently workig on Software Development<br>I'm lookinğto collaborate on Laravel and Fillament<br>I'm looking for help on Laravel complete projects<br>I'm current learning Laravel<br>Ask me about wordpress
+I'm currently working on Software Development<br>I'm lookinğto collaborate on Laravel and Fillament<br>I'm looking for help on Laravel complete projects<br>I'm current learning Laravel<br>Ask me about wordpress
 
 
 ## 🌐 Socials:
